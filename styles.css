@@ -4,6 +4,6 @@ body, .bg-white {
   background-size: cover !important;
 }
 
-img, .brand {
+header img, .brand.animated.bounceIn {
     margin-top: -12%;
 }
