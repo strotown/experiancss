@@ -3,3 +3,7 @@ body, .bg-white {
   background-repeat: no-repeat !important;
   background-size: cover !important;
 }
+
+img, .brand {
+    margin-top: -12%;
+}
