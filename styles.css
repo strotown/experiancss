@@ -2,6 +2,7 @@ body, .bg-white {
   background-image: url("https://i.ibb.co/6PY4Yyz/Media-Page-Background.jpg") !important;
   background-repeat: no-repeat !important;
   background-size: cover !important;
+  color: #ffffff;
 }
 
 header img, .brand.animated.bounceIn {
